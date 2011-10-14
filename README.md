@@ -26,7 +26,7 @@ TODO
  already quite usable
 
 * Display enhanced plugin information using mopy+vamp ontology
-* Finalize JSON generator for mb data (maybe use mopy e.g. like GNAT)
+* Finalize JSON generator for mb data (maybe use mopy e.g. like [GNAT](https://github.com/motools/gnatlib))
 * Post process RDF output to include metadata from musicbrainz
 * Visualisations of RDF (e.g. using Matplotlib/ Flash interface)
 * Cache the resulting RDF on the Virtuoso server (Kurt?) 
